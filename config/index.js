@@ -68,7 +68,7 @@ export const config = {
     // 在一起的日子，格式同上
     LOVE_DATE: "2018-01-22",
     // 结婚纪念日
-    //MARRY_DATE: "2020-01-04",
+    MARRY_DATE: "2020-01-04",
 
 
     /** 每日一言 */
